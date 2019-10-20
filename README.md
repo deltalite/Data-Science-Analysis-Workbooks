@@ -7,4 +7,5 @@ Most of these projects are associated with Kaggle. They have vast collections of
 Kaggle's introductory competition for learning how to generate predictions based on both categorical and continuous data. 
 
 ## Digit_Recognizer
-A Kaggle competition for learning about computer vision techniques using data from 28x28 images in order to predict the digits written. 
+A Kaggle competition for learning about computer vision techniques using data from 28x28 images in order to predict digits written. The data is taken from the MNIST database and is a classic dataset for practicing ML/Deep Learning techniques.
+
